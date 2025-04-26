@@ -19,7 +19,7 @@ This project is a dynamic visualization of our solar system, created using HTML,
 
 1.  **Clone the repository** (if you are using version control):
     ```bash
-    git clone [repository URL]
+   https://github.com/Amit046/Moving-Solar-System
     ```
 2.  **Open the `index.html` file** in your web browser.
 3.  You will be presented with a visual representation of the solar system.
